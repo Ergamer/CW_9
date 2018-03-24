@@ -1,0 +1,11 @@
+.ContactCreator{
+    border: 1px solid black;
+    width: 50%;
+    border-radius: 5px;
+    background: #CCCCCC;
+    margin: 0 auto;
+    padding-bottom: 40px;
+}
+.ContactCreator input{
+    margin-bottom: 10px;
+}
